@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Playbook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Prema - Group 24"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,30 +104,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Prema24"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "We joined for the Staging co-creation and creativity course. We gained a lot of hands-on knowledge by applying what we learned at real workshops. This playbooks is our legacy and we hope we use it as a guide in the future."
+  location         : "DTU, Copenhagen, Denmark"
   email            :
   links:
-    - label: "Email"
+    - label: "Marina Epitropaki - s222727"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "mailto:s222727@dtu.dk"
+
+    - label: "Josefine Schwab Rolver - s183652 "
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s183652@dtu.dk"
+
+    - label: "Philip Wiehe Larsen – s154259 "
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s154259@dtu.dk"
+
+    - label: "Eleni Georgakopoulou – s222563 "
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s222563@dtu.dk"
+
+    - label: "Judit Farkas – s223082 "
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s223082@dtu.dk"
+
 
 # Site Footer
 footer:
