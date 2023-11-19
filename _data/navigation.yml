@@ -1,14 +1,19 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /
 
   - title: "Methods"
     url: https://mmistakes.github.io/minimal-mistakes/about/
 
   - title: "Templates"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: http://facebook.com/
+
+  - title: "Recipes"
+    url: /_layouts/recipes-archive.html
+    
+  - title: "Always Remember"
+    permalink: /always_remember/
+
+  #- title: "<div class='navicon'>"
+  #  url: /sitemap/
