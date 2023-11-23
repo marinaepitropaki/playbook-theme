@@ -292,3 +292,47 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _facilitator
+  - scope:
+      path: ""
+      type: facilitatorchecklist
+    values:
+      layout: collection
+      author_profile: true
+      share: true
+      comments: true
+  # _frameworks
+  - scope:
+      path: ""
+      type: frameworks
+    values:
+      layout: collection
+      author_profile: true
+      share: true
+      comments: true
+  # _methods
+  - scope:
+      path: ""
+      type: methods
+    values:
+      layout: collection
+      author_profile: true
+      share: true
+      comments: true
+  # _templates
+  - scope:
+      path: ""
+      type: templates
+    values:
+      layout: collection
+      author_profile: true
+      share: true
+      comments: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+
