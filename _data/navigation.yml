@@ -16,7 +16,7 @@ main:
     url: /templates/
 
   - title: "Reflections"
-    permalink: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /reflections/
   #- title: "<div class='navicon'>"
   #  url: /sitemap/
 
