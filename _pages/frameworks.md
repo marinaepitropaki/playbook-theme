@@ -10,13 +10,13 @@ sidebar:
 ---
 
 ## Double Diamond
-![Double Diamond](../_pages/doublediamond.png)
+![Double Diamond](/assets/images/doublediamond.png)
 
 double diamond was the main framework we used in our workshops
 
 ## Staging an iterative process
 
 Build - Measure - Learn
-![Double Diamond](../_pages/iterative.png)
+![Double Diamond](/assets/images/iterative.png)
 
 
