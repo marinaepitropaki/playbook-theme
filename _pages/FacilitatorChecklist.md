@@ -33,6 +33,12 @@ published: true
     .v-stack {
       display: flex;
       flex-direction: column;
+      margin-left: 10px;
+    }
+
+    /* Style the small (description) element */
+    .v-stack small {
+        flex: 1; /* Allow the small element to grow and take up remaining space */
     }
 
     /* Style the checkbox */
@@ -44,7 +50,6 @@ published: true
     .checkbox-label-item {
       display: flex;
       flex-direction: column;
-      margin-left: 10px;
     }
 
     /* Preserve line breaks within labels */
