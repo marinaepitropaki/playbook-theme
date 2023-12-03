@@ -9,15 +9,17 @@ sidebar:
   nav: "frameworks"
 ---
 
+![Frameworks]({{ site.baseurl }}/assets/images/iterative.png)
+
 ## Double Diamond 
 <small>The double diamond is a design process model and is developed for guiding designers through a problem-solution oriented process (lecture 1). It consists of two diamonds, that  follow the a divergent and convergent thinking structure each. These two diamonds together consist of four phases: Discover, Define, Develop and Deliver.  
 
 ![Double Diamond]({{ site.baseurl }}/assets/images/doublediamond.png)
 
-1. <span id="discover"></span><span style="font-size: smaller;">**Discover:** The discover phase is a divergent phase with the purpose of exploring and understanding the problem and the user involved. The phase includes research, information gathering, and insight sharing.</span>[Reference to Discover Phase](#discover)
-2. <span id="define"><span style="font-size: smaller;">**Define:** The define phase is a convergent phase with the purpose of synthesizing the information from the discover phase into a specific challenge. The outcome of the phase is a statement, that is framing the identified problem.</span> [Reference to Define Phase](#define)
-3. <span id="develop"><span style="font-size: smaller;">**Develop:** The develop phase is a divergent phase with the purpose of exploring the opportunities for solving the challenge. It is a creative phase, where a lot of brainstorming is performed to generate as many ideas as possible.</span>[Reference to Develop Phase](#develop)
-4. <span id="deliver"><span style="font-size: smaller;">**Deliver:** The deliver phase is a convergent phase with the purpose of conceptualizing the chosen solution. Here prototyping is often used for developing and finalizing the solution.</span>[Reference to Deliver Phase](#deliver)
+1. <span id="discover"></span><span style="font-size: smaller;">**Discover:** The discover phase is a divergent phase with the purpose of exploring and understanding the problem and the user involved. The phase includes research, information gathering, and insight sharing.</span><span style="display: none;">[Reference to Discover Phase](#discover)</span>
+2. <span id="define"><span style="font-size: smaller;">**Define:** The define phase is a convergent phase with the purpose of synthesizing the information from the discover phase into a specific challenge. The outcome of the phase is a statement, that is framing the identified problem.</span> <span style="display: none;">[Reference to Define Phase](#define)</span>
+3. <span id="develop"><span style="font-size: smaller;">**Develop:** The develop phase is a divergent phase with the purpose of exploring the opportunities for solving the challenge. It is a creative phase, where a lot of brainstorming is performed to generate as many ideas as possible.</span><span style="display: none;">[Reference to Develop Phase](#develop)</span>
+4. <span id="deliver"><span style="font-size: smaller;">**Deliver:** The deliver phase is a convergent phase with the purpose of conceptualizing the chosen solution. Here prototyping is often used for developing and finalizing the solution.</span><span style="display: none;">[Reference to Deliver Phase](#deliver)</span>
 
 
 ##### How to apply in workshops: 
