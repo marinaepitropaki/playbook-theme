@@ -57,7 +57,7 @@ published: true
       white-space: pre-line;
     }
     ul {
-      font-size: 1.0em;
+      font-size: 0.8em;
     }
     
   </style>
