@@ -16,8 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "/assets/images/logo.png"
-title                    : "Playbook"
+title                    : #"Playbook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prema - Group 24"
@@ -26,8 +25,8 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logo.png"
+masthead_title           : "Playbook"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Prema24"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "We joined for the Staging co-creation and creativity course. We gained a lot of hands-on knowledge by applying what we learned at real workshops. This playbooks is our legacy and we hope we use it as a guide in the future."
   location         : "DTU, Copenhagen, Denmark"
   email            :
