@@ -56,16 +56,19 @@ published: true
     .checkbox-label-item label {
       white-space: pre-line;
     }
+    ul {
+      font-size: 1.0em;
+    }
     
   </style>
 </head>
 <body>
 
-  <h2>BEFORE THE WORKSHOP</h2>
+  <h4>BEFORE THE WORKSHOP</h4>
 
   <ul class="checkbox-container" id="beforeWorkshopList"></ul>
 
-  <h2>DURING THE WORKSHOP</h2>
+  <h4>DURING THE WORKSHOP</h4>
 
   <ul class="checkbox-container" id="duringWorkshopList"></ul>
 
