@@ -9,7 +9,6 @@ published: true
 
 <figure>
   <img src="/assets/images/space.jpeg" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
 </figure>
 
 ## REFLECTIONS
