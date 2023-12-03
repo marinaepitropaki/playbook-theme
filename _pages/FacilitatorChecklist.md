@@ -7,7 +7,7 @@ author_profile: false
 published: true
 ---
 
-![Staging Discussion](/assets/images/staging.png)
+![Staging Discussion]({{ site.baseurl }}/assets/images/staging.png)
 
 <html lang="en">
 <head>
