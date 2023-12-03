@@ -36,3 +36,43 @@ frameworks:
     children:
       - title: "Staging Discussion"
         url: /frameworks/#stagingdiscussion
+
+checklist:
+  - title: BEFORE THE WORKSHOP
+    children:
+      - title: "Templates"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Complexity of Methods"
+        #url: /FacilitatorChecklist/#complexity
+      - title: "Audience"
+        #url: /FacilitatorChecklist/#audience
+      - title: "Preparation"
+        #url: /FacilitatorChecklist/#prepared
+      - title: "Equipment"
+        #url: /FacilitatorChecklist/#equipment
+      - title: "Snacks"
+        #url: /FacilitatorChecklist/#snacks
+
+  - title: DURING THE WORKSHOP
+    children:
+      - title: "Intro & Outro"
+        #url: /FacilitatorChecklist/#intro
+      - title: "Agenda"
+        #url: /FacilitatorChecklist/#agenda
+      - title: "Previous outcomes"
+        #url: /FacilitatorChecklist/#outcomes
+      - title: "Room"
+        #url: /FacilitatorChecklist/#room
+      - title: "Boundary objects"
+        #url: /FacilitatorChecklist/#objects
+      - title: "Stage"
+        #url: /FacilitatorChecklist/#stage
+      - title: "Breaks"
+        #url: /FacilitatorChecklist/#breaks
+      - title: "Timeframes"
+        #url: /FacilitatorChecklist/#timeframes
+      - title: "Gamification"
+        #url: /FacilitatorChecklist/#gamification
+
+  - title: References
+    url: /FacilitatorChecklist/#references

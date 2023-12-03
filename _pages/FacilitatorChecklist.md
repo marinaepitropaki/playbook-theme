@@ -5,6 +5,8 @@ collection: facilitatorchecklist
 permalink: /facilitatorchecklist/
 author_profile: false
 published: true
+sidebar:
+  nav: "checklist"
 ---
 
 ![Staging Discussion]({{ site.baseurl }}/assets/images/staging.png)
@@ -56,9 +58,7 @@ published: true
     .checkbox-label-item label {
       white-space: pre-line;
     }
-    ul {
-      font-size: 0.8em;
-    }
+
     
   </style>
 </head>
@@ -104,27 +104,27 @@ published: true
     // Array of checklist items for DURING THE WORKSHOP
     const duringWorkshopItems = [
       {
-        label: ' Make intro and outro.',
+        label: ' Make intro and outro.' ,
         description: 'Allocate designated time for introducing yourself to the participants, and adding an icebreaker or two for participants to get to know each other and establish trust. At the end of the workshop, make sure you wrap up, explain and reframe outcomes of the workshop and ask for participants’ feedback.'
       },
       {
-        label: ' Have a visible agenda.',
+        label: ' Have a visible agenda.' ,
         description: 'It isn’t enough to simply explain the agenda in the beginning, as most would immediately forget it. Make sure to add an agenda or plan of the workshop, either physical or digital, but visible at all times!'
       },
       {
-        label: ' Inform about previous outcomes.',
+        label:' Inform about previous outcomes.' ,
         description: 'If your workshop builds on a previous project or co-creation process, make sure to allocate time for informing your participants about this and explain the relevant information to them.'
       },
       {
-        label: ' Use the room.',
+        label: ' Use the room.' ,
         description: 'This is important for both you, as a facilitator, but also for your participants. The facilitator should use the room to walk around so everyone can hear them and feel their presence – if the facilitator stands in one place for the whole workshop, participants might forget that they are there during an activity, which decreases the preset atmosphere of the workshop. It is also beneficial if the participants are encouraged to use the whole room – if it is a big space, there can be standing/physical methods, but even if the room is small, use the walls or blackboard (put sticky notes on them, draw, put template posters on).'
       },
       {
-        label: ' Use boundary objects.',
+        label: ' Use boundary objects.' ,
         description: 'Different people will have different competencies. To bridge the gap between them, you can use objects such as shared tools (play doh, sketches, images), prototypes, shared processes (activities that need contribution from all participants) which are called boundary objects. These help individuals jointly transform their competences and knowledge (Valgeirsdottir, 2023).'
       },
       {
-        label: ' Stage the workshop.',
+        label: ' Stage the workshop.' ,
         description: 'It is important that you, as a facilitator, “set the stage” for creative collaboration. Prepare, arrange, and explain activities according to your participants’ needs and abilities, facilitate discussions during the workshop’s activities and reframe the outcome of each activity (Pedersen, 2020).'
       },
       {
@@ -132,11 +132,11 @@ published: true
         description: 'Breaks are important to get one out of stagnation or fixation on one task, and they enhance creativity. Make sure you add some breaks, but not too many – this depends on the timeframe of your workshop.'
       },
       {
-        label: ' Respect the timeframes.',
+        label: ' Respect the timeframes.' ,
         description: 'Make sure to respect the timeslots you allocated to each activity within reason. Starting and finishing the workshop on time shows that you respect your participants’ time, and keeping the timeframes of each activity makes sure that you can go through them all.'
       },
       {
-        label: ' Use gamification.',
+        label: ' Use gamification.' ,
         description: 'Getting significant insight from all participants is oftentimes easiest if you transform the co-creation processes into playful activities, called design games, that build on some sort of a purpose. They should be simple, they should allow you to include any participant regardless of their abilities, they should have a set of rules that participants adhere to, and they should focus on imagining possibilities instead of demonstrating solutions, hence the playfulness (Valgeirsdottir, 2023).'
       }
     ];
@@ -194,8 +194,8 @@ published: true
 
 
 
-
-<small> **References**<small>  
+<span id="references"></span>
+<small> **References**<small> <span style="display: none;">[Reference to References](#references)</span> 
 - <small> Pedersen, S., (2020) Staging negotiation spaces: A co-design framework, Design Studies, [https://doi.org/10.1016/j.destud.2020.02.002](https://doi.org/10.1016/j.destud.2020.02.002)<small>  
 - <small>Valgeirsdottir, D. (2023) Staging Co-Creation and Creativity, Technical University of Denmark<small>
 
