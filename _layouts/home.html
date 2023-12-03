@@ -2,56 +2,78 @@
 layout: archive
 ---
 
-<style>
-  p {
-    font-size: 0.8em; /* Adjust the font size as needed <a href="home.html">TEST</a> */
-  }
-</style>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Page Title</title>
 
-{{ content }}
+  <!-- Add Font Awesome CDN link for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-KPnGQjH20TfLkfoe0Be8P0C2QPkIk3GTEF1MQ5u7MPqI47A9UjAeIAdykaMwLd/K3Q8z5Vg1pavRZq3bl3J4Hg==" crossorigin="anonymous" />
 
+  <style>
+    p {
+      font-size: 0.8em;
+    }
+    li {
+      font-size: 0.8em;
+    }
+  </style>
+</head>
+<body>
 
+  {{ content }}
 
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].introduction | default: "Introduction" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-<p>Welcome to the nexus of imagination and collaboration! In the 'Staging Co-creation and Creativity' playbook, we invite you to discover the art and science of cultivating creativity in a staged environment. This course transcends traditional boundaries, providing a dynamic platform to explore, experiment, and engage with the multifaceted facets of creativity.</p>
-
-<p>Our journey began in the immersive landscape of workshops, where minds converged and ideas unfolded. This playbook is not just a compilation of knowledge; it's a living testament to the vibrant energy and collective wisdom generated through hands-on experiences. Whether you are a seasoned creative professional or someone just beginning to explore the realms of co-creation, this playbook is your guide to unlocking the full potential of collaborative creativity.</p>
-
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-<h5 class="archive__subtitle">{{ site.data.ui-text[site.locale].about-us | default: "About us" }}</h5>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-<p>Who we are paragraph</p>
-
-<h5 class="archive__subtitle">{{ site.data.ui-text[site.locale].purpose | default: "Purpose" }}</h5>
+  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].introduction | default: "Welcome!📖" }}</h3>
 
   {% if paginator %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-  
-  <p>Purpose of this page</p>
 
+  <p>Welcome to our corner of imagination and collaboration! In the 'Staging Co-creation and Creativity' playbook, 
+    we're exploring the simple yet magical ways of fostering creativity in a staged environment.</p> 
+  <p>Planning a workshop, event, or activity? You're in the perfect spot. Here, you'll find practical tips, 
+    humble tricks, some handy templates, and thoughts on frameworks and methods—all neatly bundled up. </p>
+  <p>And guess what? We've wrapped up all our findings in this neat little website to be your go-to guide for 
+    supercharged co-creation processes—no matter the topic. 
+    Whether you're a seasoned facilitator or just starting out, consider this your one-stop shop for all things 
+    collaborative and productive.</p>
+  <p>So go ahead, explore, and make the most out of your workshop facilitating adventures. We've had a blast testing, 
+    learning, and now, it's your turn to enjoy the ride.🌱✨</p>
 
-{% include paginator.html %}
+  <p>Happy facilitating! 🚀✨</p>
+  <div class="entries-list">
+    {% for post in posts %}
+      {% include archive-single.html type="list" %}
+    {% endfor %}
+  </div>
+
+  <h5 class="archive__subtitle">{{ site.data.ui-text[site.locale].about-us | default: "About us" }}</h5>
+
+  <p>We're a group of five students from the Technical University of Denmark, and we've been on an exciting journey to test and gather insights just for you! 💡</p>
+
+  <p>Imagine us as your friendly co-creation enthusiasts, here to share our experiences and discoveries. Throughout our course, we dove into a sea of methods and approaches, exploring creative avenues to make workshops not just efficient but downright enjoyable!</p> 
+
+  <h5 class="archive__subtitle">{{ site.data.ui-text[site.locale].about-us | default: "Purpose" }}</h5>
+
+  <p>Why a website? 🤔</p>
+  <p>
+    We chose a website for this playbook to make knowledge always accessible. 
+    Regular updates can keep it fresh, adapting to the ever-changing world of co-creation.
+  </p>
+  <p>We want to provide:</p>
+
+  <ul>
+    <li><strong>Accessibility:</strong> Available 24/7, accessible to all</li>
+    <li><strong>Up-to-date:</strong> Regularly updated to stay current.</li>
+    <li><strong>Device-Friendly:</strong> Compatible with computers and tablets.</li>
+    <li><strong>Modifiability:</strong> Easily adaptable without being overly susceptible.</li>
+    <li><strong>Cost:</strong> Free, because knowledge knows no price tag. 🌐📚</li>
+  </ul>
+
+  {% include paginator.html %}
+
+</body>
+</html>

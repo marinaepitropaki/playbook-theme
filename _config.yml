@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : #"Playbook"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Prema - Group 24"
+subtitle                 : "By PREMA 24"
+name                     : "PREMA 24"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prema24"
-  avatar           : "/assets/images/logo.png"
+  name             : "PREMA 24"
   bio              : "We joined for the Staging co-creation and creativity course. We gained a lot of hands-on knowledge by applying what we learned at real workshops. This playbooks is our legacy and we hope we use it as a guide in the future."
+  avatar           : "/assets/images/Avatar.png"
   location         : "DTU, Copenhagen, Denmark"
   email            :
   links:
