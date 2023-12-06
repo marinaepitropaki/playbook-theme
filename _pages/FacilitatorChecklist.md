@@ -9,7 +9,7 @@ sidebar:
   nav: "checklist"
 ---
 
-![Staging Discussion]({{ site.baseurl }}/assets/images/staging.png)
+image missing
 
 <html lang="en">
 <head>

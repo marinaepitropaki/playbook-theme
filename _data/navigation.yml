@@ -78,39 +78,39 @@ checklist:
 
 methods:
   - title: Introdution N Icebreakers
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#Introduction
     children:
       - title: "Name tag Exercise"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Nametag
       - title: "Who owns the song?"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Song
       - title: "Tall tales"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#TallTales
   - title: Main Workshop 1
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#Workshop1
     children:
-      - title: "Desk research"
-        #url: /FacilitatorChecklist/#templates
+      - title: "Desk Research"
+        url: /Methods/#DeskResearch
       - title: "Personas"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Personas
       - title: "Negative Brainstorming"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#NegativeBrainstorming
       - title: "Brainstorm Box"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#BrainstormBox
       - title: "Design Games"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#GameDesign
       - title: "Game Piece for Design games"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#GamePiece
       - title: "Actor Network"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#ActorNetwork
       - title: "Actor Worlds"
-        #url: /FacilitatorChecklist/#templates
-      - title: "Messy map"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#ActorWorlds
+      - title: "Messy Map"
+        url: /Methods/#MessyMap
       - title: "Ordered map"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#OrderedMap
       - title: "Relational map"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#RelationalMap
   - title: Energizers
     #url: /FacilitatorChecklist/#templates
     children:
@@ -155,3 +155,20 @@ methods:
         #url: /FacilitatorChecklist/#templates
       - title: "Strengths N Weaknesses"
         #url: /FacilitatorChecklist/#templates
+
+
+feature_row:
+  - image_path: /assets/images/space.jpeg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
