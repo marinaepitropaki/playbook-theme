@@ -17,8 +17,7 @@ main:
 
   - title: "Reflections"
     url: /reflections/
-  #- title: "<div class='navicon'>"
-  #  url: /sitemap/
+
 
 frameworks:
   - title: Double Diamond
@@ -76,3 +75,83 @@ checklist:
 
   - title: References
     url: /FacilitatorChecklist/#references
+
+methods:
+  - title: Introdution N Icebreakers
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "Name tag Exercise"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Who owns the song?"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Tall tales"
+        #url: /FacilitatorChecklist/#templates
+  - title: Main Workshop 1
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "Desk research"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Personas"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Negative Brainstorming"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Brainstorm Box"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Design Games"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Game Piece for Design games"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Actor Network"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Actor Worlds"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Messy map"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Ordered map"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Relational map"
+        #url: /FacilitatorChecklist/#templates
+  - title: Energizers
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "Basketball"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Human Knot"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Circle of Stretch"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Body tapping"
+        #url: /FacilitatorChecklist/#templates
+  - title: Main Workshop 2
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "User Journey"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Evaluation Matrix"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Development Arena"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Idea with/Idea in"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Idea Parking Lot"
+        #url: /FacilitatorChecklist/#templates
+  - title: Late Workshop
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "Prototyping"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Poster Template"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Present yout neighbours"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Build - Measure - Learn"
+        #url: /FacilitatorChecklist/#templates
+      - title: "The difference that matters"
+        #url: /FacilitatorChecklist/#templates
+  - title: Discussion
+    #url: /FacilitatorChecklist/#templates
+    children:
+      - title: "Pros N Cons"
+        #url: /FacilitatorChecklist/#templates
+      - title: "Strengths N Weaknesses"
+        #url: /FacilitatorChecklist/#templates

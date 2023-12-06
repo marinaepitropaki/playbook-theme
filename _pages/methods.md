@@ -6,7 +6,7 @@ permalink: /methods/
 author_profile: false
 published: true
 sidebar:
-  nav: "docs"
+  nav: "methods"
 ---
 <style>
   .container {
