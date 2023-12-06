@@ -289,6 +289,7 @@ When designing a workshop the idea is to pick and choose from the methods list b
 <span id="Workshop2"></span><span style="display: none;">[Reference to Workshop2](#Workshop2)</span>
 <h2>MAIN WORKSHOP 2 🗃️</h2>
 
+<span id="UserJourney"></span><span style="display: none;">[Reference to UserJourney](#UserJourney)</span>
 <h5>User Journey</h5>
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
