@@ -112,49 +112,49 @@ methods:
       - title: "Relational map"
         url: /Methods/#RelationalMap
   - title: Energizers
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#Energizers
     children:
       - title: "Basketball"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Basketball
       - title: "Human Knot"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#HumanKnot
       - title: "Circle of Stretch"
-        #url: /FacilitatorChecklist/#templates
-      - title: "Body tapping"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#CircleOfStretch
+      - title: "Body Tapping"
+        url: /Methods/#BodyTapping
   - title: Main Workshop 2
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#Workshop2
     children:
       - title: "User Journey"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#UserJourney
       - title: "Evaluation Matrix"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#EvaluationMatrix
       - title: "Development Arena"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#DevelopmentArea
       - title: "Idea with/Idea in"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#IdeaWithIn
       - title: "Idea Parking Lot"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#IdeaParkingLot
   - title: Late Workshop
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#LateWorkshop
     children:
       - title: "Prototyping"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Prototyping
       - title: "Poster Template"
-        #url: /FacilitatorChecklist/#templates
-      - title: "Present yout neighbours"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#PosterTemplate
+      - title: "Present yout Neighbours"
+        url: /Methods/#Neighbors
       - title: "Build - Measure - Learn"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#BuildMeasureLearn
       - title: "The difference that matters"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#Difference
   - title: Discussion
-    #url: /FacilitatorChecklist/#templates
+    url: /Methods/#Discussion
     children:
       - title: "Pros N Cons"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#ProsCons
       - title: "Strengths N Weaknesses"
-        #url: /FacilitatorChecklist/#templates
+        url: /Methods/#StrengthsNWeaknesses
 
 
 feature_row:
