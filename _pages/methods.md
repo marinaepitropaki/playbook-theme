@@ -118,10 +118,6 @@ sidebar:
   }
 </style>
 
-/* id for reference
-<span id="references"></span>
-<small> **References**<small> <span style="display: none;">[Reference to References](#references)</span> */
-
 <p><small>For gathering the methods, we choose to categorize them in the following categories: Introduction, Workshop 1, Energizer, Workshop 2, Late workshop and Discussion. 
 
 When designing a workshop the idea is to pick and choose from the methods list by deciding which methods that are relevant and beneficial for the specific workshop. The purpose of the categorization is to make it easier to find specific methods, but several methods fit into different phases of the workshop and often they fit into more than one categories!</small>🤹🏻‍♀️ 🧾</p>
@@ -255,8 +251,45 @@ When designing a workshop the idea is to pick and choose from the methods list b
 
   </details>
 
+<span id="Energizers"></span><span style="display: none;">[Reference to Energizers](#Energizers)</span>
+<h2>ENERGIZERS 🏃‍♀️</h2>
 
-<h3>User Journey</h3>
+  <span id="Basketball"></span><span style="display: none;">[Reference to Basketball](#Basketball)</span>
+<h5>Basketball</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/Basketball.png" alt="Basketball">
+
+  </details>
+
+  <span id="HumanKnot"></span><span style="display: none;">[Reference to HumanKnot](#HumanKnot)</span>
+<h5>The Human Knot</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/HumanKnot.png" alt="HumanKnot">
+
+  </details>
+
+  <span id="CircleOfStretch"></span><span style="display: none;">[Reference to CircleOfStretch](#CircleOfStretch)</span>
+<h5>Circle of Stretch</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/CircleOfStretch.png" alt="CircleOfStretch">
+
+  </details>
+
+  <span id="BodyTapping"></span><span style="display: none;">[Reference to BodyTapping](#BodyTapping)</span>
+<h5>Body Tapping</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/BodyTapping.png" alt="BodyTapping">
+
+  </details>
+
+<span id="Workshop2"></span><span style="display: none;">[Reference to Workshop2](#Workshop2)</span>
+<h2>MAIN WORKSHOP 2 🗃️</h2>
+
+<h5>User Journey</h5>
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/UserJourney.png" alt="UserJourney">
@@ -264,11 +297,90 @@ When designing a workshop the idea is to pick and choose from the methods list b
       <small>Template from “The Universal Design Guide”: </small>
       <small><a href="https://universaldesignguide.com/wp-content/uploads/Journey-map-v2.pdf">Link to template</a></small>
   </details>
-<h3>Prototyping</h3>
+
+  <span id="EvaluationMatrix"></span><span style="display: none;">[Reference to EvaluationMatrix](#EvaluationMatrix)</span>
+<h5>Evaluation Matrix</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/EvaluationMatrix.png" alt="EvaluationMatrix">
+  </details>
+
+  <span id="DevelopmentArea"></span><span style="display: none;">[Reference to EvaluationMatrix](#EvaluationMatrix)</span>
+<h5>Development Arena</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/DevelopmentArea.png" alt="DevelopmentArea">
+  </details>
+
+  <span id="IdeaWithIn"></span><span style="display: none;">[Reference to IdeaWithIn](#IdeaWithIn)</span>
+<h5>Concept development - Idea with/ Idea in</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/IdeaWithIn.png" alt="IdeaWithIn">
+  </details>
+
+  <span id="IdeaParkingLot"></span><span style="display: none;">[Reference to IdeaParkingLot](#IdeaParkingLot)</span>
+<h5>Idea Parking Lot</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/IdeaParkingLot.png" alt="IdeaParkingLot">
+  </details>
+
+  <span id="LateWorkshop"></span><span style="display: none;">[Reference to LateWorkshop](#LateWorkshop)</span>
+<h2>LATE WORKSHOP 2 🦾</h2>
+
+  <span id="Prototyping"></span><span style="display: none;">[Reference to Prototyping](#Prototyping)</span>
+<h5>Prototyping</h5>
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/Prototyping.png" alt="Prototyping">
   </details>
+
+  <span id="PosterTemplate"></span><span style="display: none;">[Reference to PosterTemplate](#PosterTemplate)</span>
+<h5>PosterTemplate</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/PosterTemplate.png" alt="PosterTemplate">
+  </details>
+
+  <span id="Neighbors"></span><span style="display: none;">[Reference to Neighbors](#Neighbors)</span>
+<h5>Present your Neighbors</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/Neighbors.png" alt="Neighbors">
+  </details>
+
+  <span id="BuildMeasureLearn"></span><span style="display: none;">[Reference to BuildMeasureLearn](#BuildMeasureLearn)</span>
+<h5>Build - Measure - Learn</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/BuildMeasureLearn.png" alt="BuildMeasureLearn">
+  </details>
+
+  <span id="Difference"></span><span style="display: none;">[Reference to Difference](#Difference)</span>
+<h5>The Difference that Matters</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/Difference.png" alt="Difference">
+  </details>
+
+  <span id="Discussion"></span><span style="display: none;">[Reference to Discussion](#Discussion)</span>
+<h2>DISCUSSION 💬</h2>
+
+  <span id="ProsCons"></span><span style="display: none;">[Reference to ProsCons](#ProsCons)</span>
+<h5>Pros and Cons</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/ProsCons.png" alt="ProsCons">
+  </details>
+
+  <span id="StrengthsNWeaknesses"></span><span style="display: none;">[Reference to StrengthsNWeaknesses](#StrengthsNWeaknesses)</span>
+<h5>Strengths and Weaknesses</h5>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/StrengthsNWeaknesses.png" alt="StrengthsNWeaknesses">
+  </details>
+
 </div>
 
 
