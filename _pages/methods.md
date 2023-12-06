@@ -127,6 +127,33 @@ sidebar:
       <small>Template from “The Universal Design Guide”: </small>
       <small><a href="https://universaldesignguide.com/wp-content/uploads/Template_nametag.pdf">Link to template</a></small>
   </details>
+<h3>Desk Research</h3>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/DeskResearch.png" alt="DeskResearch">
+      
+  </details>
+<h3>Personas</h3>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/Personas.png" alt="Personas">
+      <small>Link to template: </small>
+      <small>Template from “The Universal Design Guide”: </small>
+      <small><a href="https://universaldesignguide.com/wp-content/uploads/Persona_v2.pdf">Link to template</a></small>
+  </details>
+<h3>User Journey</h3>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/UserJourney.png" alt="UserJourney">
+      <small>Link to template: </small>
+      <small>Template from “The Universal Design Guide”: </small>
+      <small><a href="https://universaldesignguide.com/wp-content/uploads/Journey-map-v2.pdf">Link to template</a></small>
+  </details>
+<h3>Prototyping</h3>
+  <details class="default square">
+      <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
+      <img src="{{ site.baseurl }}/assets/images/Prototyping.png" alt="Prototyping">
+  </details>
 </div>
 
 
