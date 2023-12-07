@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Frameworks"
+title: "Frameworks 🖼️"
 collection: frameworks
 permalink: /frameworks/
 author_profile: false
@@ -9,7 +9,7 @@ sidebar:
   nav: "frameworks"
 ---
 
-![Frameworks]({{ site.baseurl }}/assets/images/iterative.png)
+![Frameworks]({{ site.baseurl }}/assets/images/frameworkimage.png)
 
 ## Double Diamond 
 <small>The double diamond is a design process model and is developed for guiding designers through a problem-solution oriented process (lecture 1). It consists of two diamonds, that  follow the a divergent and convergent thinking structure each. These two diamonds together consist of four phases: Discover, Define, Develop and Deliver.  
