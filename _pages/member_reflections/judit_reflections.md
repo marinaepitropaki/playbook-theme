@@ -36,35 +36,16 @@ header:
 <h1>Judit 🌺</h1>
 <hr class="separator">
 
-<p class="content-paragraph"><small>The workshop and facilitating experience transformed for me after this course. In our team, we faced challenges, but we also 
-had moments of success. During the course, we got split into groups, and the following week, two new members joined us. I got the 
-chance to be the first facilitator in our initial workshop. Our aim was to understand our potential customers better. This excited 
-me because, being an empath myself, I wanted to guide the group to empathize even a little bit with people with disabilities. I 
-used various methods like Persona, Desk research, and Spider web to achieve this. The feedback we got was generally positive, but, 
-of course, there were areas to improve; after all, it was our first workshop (for example, participants liked the activities, but 
-some were uncertain about the workshop's goal).</small></p>
+<p class="content-paragraph"><small>The past few months and the five workshops that we have created gave me lots of insight I haven't known before about co-creation processes in general and about facilitating itself. </small></p>
 
-<p class="content-paragraph"><small>Another challenge we sometimes had to deal with was finding common hours to work outside of class hours. This led to some group 
-members working more than others for a workshop, but the positive aspect was that we were rotating, so, in the end, everyone contributed 
-equally. We always made sure to have an extra meeting some days before the upcoming workshop to talk about anything we were missing or 
-just to align. In that context, the most challenging workshops for me were the 2nd and third, where we had to develop a board game. It was 
-there where, as much as I wanted to participate, I couldn't be involved in the game creation process due to the lack of common hours with 
-the rest of the group. As a workaround, I was responsible for the independent tasks, like ice-breaking or energizers. After the 2nd workshop, 
-we made sure to divide tasks so that everyone would participate in the creation process independently, and at the end, we would have our 
-weekly meeting to align.</small></p>
+<p class="content-paragraph"><small>The first reflection I had was that all creative co-creation processes need a designated facilitator for success. Whenever we held workshops, a designated person, called a facilitator would not take part in the co-creation process, but instead would observe and pitch in with guidance whenever needed, to nudge different streams of thought in the right direction. It may seem evident that a facilitator is needed for these processes, but I especially reflected on this outside of the workshops, when our team tried to create an agenda together for upcoming workshops.</small></p> 
 
-<p class="content-paragraph"><small>Another aspect that I found challenging was related to the provision of equipment. Following feedback from our first workshop, it was 
-suggested that we include snacks and coffee. While I am grateful for the supplies such as post-its, markers, and pens, I must express 
-a concern about the additional expenses we incurred for snacks and other tools like playdoh. It would have been appreciated if these 
-items were also included in the provided resources.</small>
+<p class="content-paragraph"><small>All group members had their own ideas and wanted to get them to life, but in a team of five people it is nearly impossible to do this without a designated person that takes the leader role and "sits back to observe", compromising their input for the group's efficient output. This role is what I began to associate with a facilitator in a workshop sphere, and realised that it is crucial for all creation processes to have a designated person to fit this role. In my observation, during the creation of workshops this was always the upcoming workshop's facilitator taking the role.</small></p> 
 
-<p class="content-paragraph"><small>Overall, I'd say our group communication was nice and pleasant. Apart from our weekly alignment meeting, I feel that everyone in my 
-group is very kind and works well together. They're open to new ideas and discussing any thoughts. They are also proactive, which 
-means that if someone wasn't available at a certain time, others would step in to help. I want to highlight how effective collaboration 
-and open discussion within the group can lead to excellent results.</small></p>
+<p class="content-paragraph"><small>On another note, I had several reflections about facilitating - as a process in itself. Most of these reflections are part of this website, as I believe all our team members had refletions of their own, but it is crucial that I highlight more aspects that don't necessairly fit a professional tone.</small></p>
 
-<p class="content-paragraph"><small>Regarding workshop reflections and feedback, we were always eager to hear thoughts from the group we worked with and from the course 
-responsible. We discovered that by using both the course material and workshop techniques, we gained a better understanding of our audience 
-and the workshop process. That's why in our workshops and reflections, we aimed to include as much lecture material as possible. Ultimately, 
-we envision this playbook as a compilation of course material infused with our personal experiences.</small></p>
+<p class="content-paragraph"><small>When using a method, where you as a facilitator have to point to one participant to start, it is hard to find a person - in my case it nearly ended up being the same person every time. But here are a few tricks I'd like myself to remember next time I 'm facilitating: whoever takes eye contact at first, you can say "who lives the furthest away from here", or you can simply walk up to a person before you start the activity and ask "are you comfortable starting the next task?".</small></p>
 
+<p class="content-paragraph"><small>Another one is knowing when the participants need more explanation of a task, versus when you are just looking plain stupid explaining for 5 minutes straight. The line between the two is hard to draw. But in my experience, there is no such thing as "explaining too much", you should explain as much as you can, maybe even three times, and then double-check whether all participants know what to do. Don't just jump into tasks, as this could hijack your workshop results.</small></p>
+
+<p class="content-paragraph"><small>The last thing I'd like to include on this list is knowing what to do while your participants are performing an individual task. Do you stand in one place? Do you sit down? Do you go up to each of them? The struggle is real. Next time I am facilitating a workshop and get into this situation, I would walk around the room, if the space allows, and silently look at each participant's work from a respectable distance, where they are aware of my presence but it is not disturbing their work. This way, if they have questions, they can always ask me without having to shout to the other end of the room, or raising too much attention.</small></p>
