@@ -138,7 +138,11 @@ image missing
       {
         label: ' Use gamification.' ,
         description: 'Getting significant insight from all participants is oftentimes easiest if you transform the co-creation processes into playful activities, called design games, that build on some sort of a purpose. They should be simple, they should allow you to include any participant regardless of their abilities, they should have a set of rules that participants adhere to, and they should focus on imagining possibilities instead of demonstrating solutions, hence the playfulness (Valgeirsdottir, 2023).'
-      }
+      },
+      {
+        label: ' Think about having a note-taker.' ,
+        description: 'Facilitating and documenting everything at the same time can be overwhelming, unless you’re a superhuman, of course. Make sure you have a note-taker either as a person, or as a digital transcribing tool. If you have the note-taker as a person, they should not appear as a co-facilitator, but they should keep distance and be silent observers. '
+      } 
     ];
 
     // Function to create checklist items
