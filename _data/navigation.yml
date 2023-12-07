@@ -104,7 +104,7 @@ methods:
       - title: "Body Tapping"
         url: /methods/#BodyTapping
   - title: Discover
-    url: /methods/#Workshop1
+    url: /methods/#Discover
     children:
       - title: "Desk Research"
         url: /methods/#DeskResearch
@@ -126,8 +126,8 @@ methods:
         url: /methods/#AbilityPromptCards
       - title: "Development Arena"
         url: /methods/#DevelopmentArea
-  - title: Discover
-    url: /methods/#Workshop1
+  - title: Define
+    url: /methods/#Define
     children:
       - title: "Personas"
         url: /methods/#Personas
