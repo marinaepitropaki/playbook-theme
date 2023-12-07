@@ -9,7 +9,7 @@ sidebar:
   nav: "checklist"
 ---
 
-image missing
+![Facilitator Image]({{ site.baseurl }}/assets/images/facilitatorimage.png)
 
 <html lang="en">
 <head>
