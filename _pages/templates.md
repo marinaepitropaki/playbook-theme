@@ -29,7 +29,7 @@ sidebar:
 [![image-left]({{ site.baseurl }}/assets/pdf/images/Template-BullsEye.png){: .align-left style="width:150px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-BullsEye.pdf)
 <span id="BullsEye"></span><span style="display: none;">[Reference to BullsEye](#BullsEye)</span>
 ### Bulls Eye Categorization  
-[Download PDF]({{ site.baseurl }}/assets/pdf/Template-BullsEys.pdf)<br><br><br>   
+[Download PDF]({{ site.baseurl }}/assets/pdf/Template-BullsEye.pdf)<br><br><br>   
 
 [![image-left]({{ site.baseurl }}/assets/pdf/images/Template-ConceptEvMat.png){: .align-left style="width:100px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-ConceptEvMat.pdf)
 <span id="ConceptEvaluationMatrix"></span><span style="display: none;">[Reference to ConceptEvaluationMatrix](#ConceptEvaluationMatrix)</span>

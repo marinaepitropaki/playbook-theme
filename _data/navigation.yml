@@ -31,9 +31,9 @@ frameworks:
       - title: "Deliver"
         url: /frameworks/#deliver
 
-  - title: Staging an iterative process
+  - title: Create Stage Develop
     children:
-      - title: "Staging Discussion"
+      - title: "Create Stage Develop"
         url: /frameworks/#stagingdiscussion
 
   - title: References
