@@ -33,7 +33,7 @@ header:
 </head>
 <body>
 
-<h1>Marina 🌻</h1>
+<h1>Marina 🌼</h1>
 <hr class="separator">
 
 <p class="content-paragraph"><small>The workshop and facilitating experience transformed for me after this course. In our team, we faced challenges, but we also 

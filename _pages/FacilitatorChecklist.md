@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Facilitator Checklist"
+title: "Facilitator Checklist 📝"
 collection: facilitatorchecklist
 permalink: /facilitatorchecklist/
 author_profile: false
@@ -92,12 +92,20 @@ image missing
         description: 'Know your participants. The number of participants dictates the types of methods you can use, but you should also consider their age, mental and physical abilities. Pretending that this is the first workshop your participants have ever been in enhances ease of understanding and clarity.'
       },
       {
+        label: ' Think about having a note-taker.' ,
+        description: 'Facilitating and documenting everything at the same time can be overwhelming, unless you’re a superhuman, of course. Make sure you have a note-taker either as a person, or as a digital transcribing tool. If you have the note-taker as a person, they should not appear as a co-facilitator, but they should keep distance and be silent observers. '
+      },
+      {
         label: ' Be prepared in advance.',
         description: 'Know your agenda and schedule, be familiar with the workshop’s goal and any previous outcomes that need to be explained and be prepared to explain your methods. If the participants feel like you put lots of effort into making the workshop, they are more likely to put their effort into it too!'
       },
       {
         label: ' Gather the needed equipment in advance.',
         description: 'Imagine the printer you wanted to print with on the day of the workshop is out of ink, so you are unable to get your necessary equipment – wouldn’t that be stressful? Don’t leave it to luck, prepare all materials (physical, and digital) at least a day before the workshop. Have everything ready, so your time before the workshop can be spent on mental preparation.'
+      },
+      {
+        label: ' Stage the workshop.',
+        description: 'It is important that you, as a facilitator, “set the stage” for creative collaboration. Prepare, arrange, and explain activities according to your participants’ needs and abilities, facilitate discussions during the workshop’s activities and reframe the outcome of each activity (Pedersen, 2020).'
       },
       {
         label: ' Bring snacks.',
@@ -128,25 +136,13 @@ image missing
         description: 'Different people will have different competencies. To bridge the gap between them, you can use objects such as shared tools (play doh, sketches, images), prototypes, shared processes (activities that need contribution from all participants) which are called boundary objects. These help individuals jointly transform their competences and knowledge (Valgeirsdottir, 2023).'
       },
       {
-        label: ' Stage the workshop.' ,
-        description: 'It is important that you, as a facilitator, “set the stage” for creative collaboration. Prepare, arrange, and explain activities according to your participants’ needs and abilities, facilitate discussions during the workshop’s activities and reframe the outcome of each activity (Pedersen, 2020).'
-      },
-      {
         label: ' Remember to add breaks.',
         description: 'Breaks are important to get one out of stagnation or fixation on one task, and they enhance creativity. Make sure you add some breaks, but not too many – this depends on the timeframe of your workshop.'
       },
       {
         label: ' Respect the timeframes.' ,
         description: 'Make sure to respect the timeslots you allocated to each activity within reason. Starting and finishing the workshop on time shows that you respect your participants’ time, and keeping the timeframes of each activity makes sure that you can go through them all.'
-      },
-      {
-        label: ' Use gamification.' ,
-        description: 'Getting significant insight from all participants is oftentimes easiest if you transform the co-creation processes into playful activities, called design games, that build on some sort of a purpose. They should be simple, they should allow you to include any participant regardless of their abilities, they should have a set of rules that participants adhere to, and they should focus on imagining possibilities instead of demonstrating solutions, hence the playfulness (Valgeirsdottir, 2023).'
-      },
-      {
-        label: ' Think about having a note-taker.' ,
-        description: 'Facilitating and documenting everything at the same time can be overwhelming, unless you’re a superhuman, of course. Make sure you have a note-taker either as a person, or as a digital transcribing tool. If you have the note-taker as a person, they should not appear as a co-facilitator, but they should keep distance and be silent observers. '
-      } 
+      }
     ];
 
      // Array of checklist items for DURING THE WORKSHOP

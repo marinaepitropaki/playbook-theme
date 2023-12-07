@@ -33,39 +33,22 @@ header:
 </head>
 <body>
 
-<h1>Philip 🌻</h1>
+<h1>Philip 🪻</h1>
 <hr class="separator">
 
-<p class="content-paragraph"><small>The workshop and facilitating experience transformed for me after this course. In our team, we faced challenges, but we also 
-had moments of success. During the course, we got split into groups, and the following week, two new members joined us. I got the 
-chance to be the first facilitator in our initial workshop. Our aim was to understand our potential customers better. This excited 
-me because, being an empath myself, I wanted to guide the group to empathize even a little bit with people with disabilities. I 
-used various methods like Persona, Desk research, and Spider web to achieve this. The feedback we got was generally positive, but, 
-of course, there were areas to improve; after all, it was our first workshop (for example, participants liked the activities, but 
-some were uncertain about the workshop's goal).</small></p>
+<p class="content-paragraph"><small>In the course Staging co-creation and creativity I have partaken and immersed myself in the group activities surrounding the partaking, the development and execution of five co-creation workshops with the focus being universal design in a music festival context. Apart from the five workshops, we have throughout the course period also been introduced to best practices in workshop design, partaken in guest lectures from professional co-creation workshop facilitators, who uses the methods in the industry and professional setting. This has for me been particularly interesting and useful as it has helped me along with the group to prepare and develop the upcoming workshops and to give concrete and accurate feedback to the other workshop facilitating groups. As a result, it is my experience that our workshops have overtime not only become better and more wholesome in content but also developed our way of preparing and facilitating the workshops, which has been on both a steep and upwards trajectory, where I have become more mature and confident in the job as a workshop facilitator. Generally speaking, it has been a fun learning experience, but as it always is, bumps along the way are destined to happen when immersing yourself into a new topic. To my future self as a workshop developer and facilitator, I have made a few recommendations: </small></p>
 
-<p class="content-paragraph"><small>Another challenge we sometimes had to deal with was finding common hours to work outside of class hours. This led to some group 
-members working more than others for a workshop, but the positive aspect was that we were rotating, so, in the end, everyone contributed 
-equally. We always made sure to have an extra meeting some days before the upcoming workshop to talk about anything we were missing or 
-just to align. In that context, the most challenging workshops for me were the 2nd and third, where we had to develop a board game. It was 
-there where, as much as I wanted to participate, I couldn't be involved in the game creation process due to the lack of common hours with 
-the rest of the group. As a workaround, I was responsible for the independent tasks, like ice-breaking or energizers. After the 2nd workshop, 
-we made sure to divide tasks so that everyone would participate in the creation process independently, and at the end, we would have our 
-weekly meeting to align.</small></p>
+<p class="content-paragraph"><small>1. Be prepared well in advance </small></p>
 
-<p class="content-paragraph"><small>Another aspect that I found challenging was related to the provision of equipment. Following feedback from our first workshop, it was 
-suggested that we include snacks and coffee. While I am grateful for the supplies such as post-its, markers, and pens, I must express 
-a concern about the additional expenses we incurred for snacks and other tools like playdoh. It would have been appreciated if these 
-items were also included in the provided resources.</small>
+<p class="content-paragraph"><small>2. If possible, assess the physical environment for your workshop beforehand </small></p>
 
-<p class="content-paragraph"><small>Overall, I'd say our group communication was nice and pleasant. Apart from our weekly alignment meeting, I feel that everyone in my 
-group is very kind and works well together. They're open to new ideas and discussing any thoughts. They are also proactive, which 
-means that if someone wasn't available at a certain time, others would step in to help. I want to highlight how effective collaboration 
-and open discussion within the group can lead to excellent results.</small></p>
+<p class="content-paragraph"><small>3. Consider your participants, - who are they and what is their background </small></p>
 
-<p class="content-paragraph"><small>Regarding workshop reflections and feedback, we were always eager to hear thoughts from the group we worked with and from the course 
-responsible. We discovered that by using both the course material and workshop techniques, we gained a better understanding of our audience 
-and the workshop process. That's why in our workshops and reflections, we aimed to include as much lecture material as possible. Ultimately, 
-we envision this playbook as a compilation of course material infused with our personal experiences.</small></p>
+<p class="content-paragraph"><small>4. Consider the abstraction level of the methods you are using </small></p>
 
+<p class="content-paragraph"><small>5. Consider the timeframe for the workshop, and don’t load it with methods </small></p>
+
+<p class="content-paragraph"><small>In conclusion, my partaking in the course has prepared and strengthened my confidence and maturity to face future co-creative workshop developing and facilitating challenges. I know some of the workshop pitfalls to avoid and methods to include.  </small></p>
+
+<p class="content-paragraph"><small>I will look forward to any workshop related tasks coming my way in my future professional career. </small></p> 
  

@@ -45,10 +45,14 @@ checklist:
         #url: /FacilitatorChecklist/#complexity
       - title: "Audience"
         #url: /FacilitatorChecklist/#audience
+      - title: "Note Taker"
+        #url: /FacilitatorChecklist/#gamification
       - title: "Preparation"
         #url: /FacilitatorChecklist/#prepared
       - title: "Equipment"
         #url: /FacilitatorChecklist/#equipment
+      - title: "Stage"
+        #url: /FacilitatorChecklist/#stage
       - title: "Snacks"
         #url: /FacilitatorChecklist/#snacks
 
@@ -64,16 +68,10 @@ checklist:
         #url: /FacilitatorChecklist/#room
       - title: "Boundary objects"
         #url: /FacilitatorChecklist/#objects
-      - title: "Stage"
-        #url: /FacilitatorChecklist/#stage
       - title: "Breaks"
         #url: /FacilitatorChecklist/#breaks
       - title: "Timeframes"
         #url: /FacilitatorChecklist/#timeframes
-      - title: "Gamification"
-        #url: /FacilitatorChecklist/#gamification
-      - title: "Note Taker"
-        #url: /FacilitatorChecklist/#gamification
   - title: AFTER THE WORKSHOP
     children:
       - title: "Document"
