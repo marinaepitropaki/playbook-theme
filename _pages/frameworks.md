@@ -44,3 +44,8 @@ During our time performing workshops in “staging co-creation and creativity”
 
 
 <small> A framework that we used for inspiration, of how to structure the individual workshop was the “Create comfort, Stage discussion and Develop together” (Lecture 2). By ensuring that the workshop participants were comfortable during the workshop and felt safe, we created great results and overall a better atmosphere during the workshops.  The group did initially struggle with understanding how to create comfort and stage the discussion for the participants, so below our learnings about how to achieve this has been gathered. <small>
+
+<span id="references"></span>
+<small> **References**<small> <span style="display: none;">[Reference to References](#references)</span> 
+- <small> Lecture 1: 38110 Staging co-creation and creativity, lecture one: Introduction day 2023, Dagný Valgeirsdóttir<small>  
+- <small> Lecture 2: 38110 Staging co-creation and creativity, lecture two: Universal Design: Co creation theory 2023, Dagný Valgeirsdóttir<small>

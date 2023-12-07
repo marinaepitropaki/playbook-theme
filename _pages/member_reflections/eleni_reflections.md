@@ -36,35 +36,16 @@ header:
 <h1>Eleni 🍁</h1>
 <hr class="separator">
 
-<p class="content-paragraph"><small>The workshop and facilitating experience transformed for me after this course. In our team, we faced challenges, but we also 
-had moments of success. During the course, we got split into groups, and the following week, two new members joined us. I got the 
-chance to be the first facilitator in our initial workshop. Our aim was to understand our potential customers better. This excited 
-me because, being an empath myself, I wanted to guide the group to empathize even a little bit with people with disabilities. I 
-used various methods like Persona, Desk research, and Spider web to achieve this. The feedback we got was generally positive, but, 
-of course, there were areas to improve; after all, it was our first workshop (for example, participants liked the activities, but 
-some were uncertain about the workshop's goal).</small></p>
-
-<p class="content-paragraph"><small>Another challenge we sometimes had to deal with was finding common hours to work outside of class hours. This led to some group 
-members working more than others for a workshop, but the positive aspect was that we were rotating, so, in the end, everyone contributed 
-equally. We always made sure to have an extra meeting some days before the upcoming workshop to talk about anything we were missing or 
-just to align. In that context, the most challenging workshops for me were the 2nd and third, where we had to develop a board game. It was 
-there where, as much as I wanted to participate, I couldn't be involved in the game creation process due to the lack of common hours with 
-the rest of the group. As a workaround, I was responsible for the independent tasks, like ice-breaking or energizers. After the 2nd workshop, 
-we made sure to divide tasks so that everyone would participate in the creation process independently, and at the end, we would have our 
-weekly meeting to align.</small></p>
-
-<p class="content-paragraph"><small>Another aspect that I found challenging was related to the provision of equipment. Following feedback from our first workshop, it was 
-suggested that we include snacks and coffee. While I am grateful for the supplies such as post-its, markers, and pens, I must express 
-a concern about the additional expenses we incurred for snacks and other tools like playdoh. It would have been appreciated if these 
-items were also included in the provided resources.</small>
-
-<p class="content-paragraph"><small>Overall, I'd say our group communication was nice and pleasant. Apart from our weekly alignment meeting, I feel that everyone in my 
-group is very kind and works well together. They're open to new ideas and discussing any thoughts. They are also proactive, which 
-means that if someone wasn't available at a certain time, others would step in to help. I want to highlight how effective collaboration 
-and open discussion within the group can lead to excellent results.</small></p>
-
-<p class="content-paragraph"><small>Regarding workshop reflections and feedback, we were always eager to hear thoughts from the group we worked with and from the course 
-responsible. We discovered that by using both the course material and workshop techniques, we gained a better understanding of our audience 
-and the workshop process. That's why in our workshops and reflections, we aimed to include as much lecture material as possible. Ultimately, 
-we envision this playbook as a compilation of course material infused with our personal experiences.</small></p>
+<p class="content-paragraph"><small>In the framework of the course Staging co-creation and creativity, I had the chance to participate and be part of the planning and implementation of five collaborative workshops. Upon self-reflection on  these workshops that were conducted the last 3 months, several thoughts emerged.</small></p> 
+ 
+<p class="content-paragraph"><small>Firstly, Ι appreciated even more the co-creation approach in the design process and got inspired of co-creation methods that I am willing to implement in my future career as behavioral designer focusing on users needs.</small></p>
+ 
+<p class="content-paragraph"><small>During these 5 workshops, I acquired additional skills in developing a sense of empathy towards the people we are designing for, to gain insights into what they need, how they feel and behave. </small></p>
+ 
+<p class="content-paragraph"><small>Concerning the workshop I facilitated, I realized the substantial influence of my position. Factors such as being well-prepared, following a clear and structured schedule, and having a good vibe influenced the workshop process in a positive way.</small></p>
+ 
+<p class="content-paragraph"><small>Moreover, the preparation of each workshop was cooperative and this decision helped each member of our group to be more aware of every workshop and obtain a better overview of the entire design process. </small></p>
+ 
+<p class="content-paragraph"><small>Another crucial insight I gained was the importance of empathizing with participants, creating comfort, and incorporating breaks to boost creativity, resulting in a thorough and successful session. However, it's important to carefully select and test the methods used to create comfort, as we experienced inconvenience due to the selection of inappropriate music, for example, an upbeat playlist.</small></p>
+<p class="content-paragraph"><small>All in all, these co-creation workshops were not only educational but also enjoyable, unveiling a different approach of learning and setting a valuable base for my future career as a behavioral designer.</small></p>
 

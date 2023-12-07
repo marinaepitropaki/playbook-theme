@@ -11,8 +11,7 @@ feature_row_eleni:
   - image_path: /assets/images/photos/eleni.png
     alt: "placeholder image 2"
     title: "Eleni 🍁"
-    excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
-              had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
+    excerpt: 'In the framework of the course Staging co-creation and creativity, I had the chance to participate and be part of the planning and implementation of five collaborative workshops. Upon self-reflection on  these workshops that were conducted the last 3 months, several thoughts emerged...'
     url: "/member_reflections/eleni_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"

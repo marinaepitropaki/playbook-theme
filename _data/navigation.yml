@@ -36,6 +36,9 @@ frameworks:
       - title: "Staging Discussion"
         url: /frameworks/#stagingdiscussion
 
+  - title: References
+    url: /frameworks/#references
+
 checklist:
   - title: BEFORE THE WORKSHOP
     url: /facilitatorchecklist/#before
