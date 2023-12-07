@@ -72,6 +72,12 @@ checklist:
         #url: /FacilitatorChecklist/#timeframes
       - title: "Gamification"
         #url: /FacilitatorChecklist/#gamification
+      - title: "Note Taker"
+        #url: /FacilitatorChecklist/#gamification
+  - title: AFTER THE WORKSHOP
+    children:
+      - title: "Document"
+      - title: "Emails"
 
   - title: References
     url: /FacilitatorChecklist/#references

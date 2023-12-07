@@ -72,6 +72,10 @@ image missing
 
   <ul class="checkbox-container" id="duringWorkshopList"></ul>
 
+  <h4>AFTER THE WORKSHOP</h4>
+
+  <ul class="checkbox-container" id="afterWorkshopList"></ul>
+
   <script>
     // Array of checklist items for BEFORE THE WORKSHOP
     const beforeWorkshopItems = [
@@ -145,6 +149,18 @@ image missing
       } 
     ];
 
+     // Array of checklist items for DURING THE WORKSHOP
+    const afterWorkshopItems = [
+      {
+        label: ' Document right away.' ,
+        description: 'Make sure you get all ideas and thoughts down right after the workshop, as this is when facilitators have major insights into the workshop topic.'
+      },
+      {
+        label: ' Emails, emails, emails.' ,
+        description: 'Make sure you get some sort of contact information from your participants for possible follow-up questions from either side.'
+      }
+    ];
+
     // Function to create checklist items
     function createChecklistItems(containerId, items) {
       const checkboxList = document.getElementById(containerId);
@@ -191,6 +207,9 @@ image missing
 
     // Create checklist items for DURING THE WORKSHOP
     createChecklistItems('duringWorkshopList', duringWorkshopItems);
+
+    // Create checklist items for DURING THE WORKSHOP
+    createChecklistItems('afterWorkshopList', afterWorkshopItems);
   </script>
 
 </body>
