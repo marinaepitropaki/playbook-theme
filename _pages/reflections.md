@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Reflections"
+title: "Reflections 🍂🍎"
 #collection: reflections
 permalink: /reflections/
 header:
@@ -40,7 +40,7 @@ feature_row_marina:
     title: "Marina"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "#test-link"
+    url: "/marina_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_philip:
