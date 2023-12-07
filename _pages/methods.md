@@ -124,9 +124,9 @@ sidebar:
 
 ![Methods Double Diamond]({{ site.baseurl }}/assets/images/methodsdd.png)
 
-<p><small>For gathering the methods, we choose to categorize them in the following categories: Introduction, Workshop 1, Energizer, Workshop 2, Late workshop and Discussion. 
+<p><small>For structuring the method tab, we choose to categorize the methods according to double diamond phases, to ensure alignment between the design frameworks and methods. Introduction, ice breakers and energizers are in a seperate category, since these does not fit into the double diamond framework, but should always be considered for workshops. </small></p>
 
-When designing a workshop the idea is to pick and choose from the methods list by deciding which methods that are relevant and beneficial for the specific workshop. The purpose of the categorization is to make it easier to find specific methods, but several methods fit into different phases of the workshop and often they fit into more than one categories!</small>🤹🏻‍♀️ 🧾</p>
+<p><small>When designing a workshop the idea is to pick and choose from the methods by deciding which methods that are relevant and beneficial for the specific workshop. Remember that several of the methods fit into different phases of the workshop and they are not locked to be used in only one part of the workshop.</small>🤹🏻‍♀️ 🧾</p>
 
 <div class="container">
 
