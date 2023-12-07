@@ -169,6 +169,8 @@ methods:
         url: /Methods/#ProsCons
       - title: "Strengths N Weaknesses"
         url: /Methods/#StrengthsNWeaknesses
+  - title: References
+    url: /Methods/#references
 
 templates:
   - title: Templates

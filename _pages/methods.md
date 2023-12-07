@@ -116,6 +116,10 @@ sidebar:
   marker {
     display: none;
   }
+  .separator {
+      border: 0.5px solid gray;
+      margin: 20px 0;
+    }
 </style>
 
 ![Methods Double Diamond]({{ site.baseurl }}/assets/images/methodsdd.png)
@@ -134,8 +138,7 @@ When designing a workshop the idea is to pick and choose from the methods list b
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/Nametag.png" alt="Nametag">
-      <small>Link to template: </small>
-      <small>Template from “The Universal Design Guide”: </small>
+      <small>Link to template from Universal design guide: </small><br>
       <small><a href="https://universaldesignguide.com/wp-content/uploads/Template_nametag.pdf">Link to template</a></small>
   </details>
 
@@ -368,7 +371,7 @@ When designing a workshop the idea is to pick and choose from the methods list b
 
 
   <span id="Deliver"></span><span style="display: none;">[Reference to Deliver](#Deliver)</span>
-<h2>DELIVER</h2>
+<h2>DELIVER 📦</h2>
 
   <span id="IdeaWithIn"></span><span style="display: none;">[Reference to IdeaWithIn](#IdeaWithIn)</span>
 <h5>Concept development - Idea with/ Idea in</h5>
@@ -422,4 +425,9 @@ When designing a workshop the idea is to pick and choose from the methods list b
 
 </div>
 
+<br>
+<hr class="separator">
+<span id="references"></span>
+<h5>References:</h5> <span style="display: none;">[Reference to References](#references)</span>
+[Playbook Method References PDF]({{ site.baseurl }}/assets/pdf/method_references.pdf)
 
