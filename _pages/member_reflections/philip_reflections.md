@@ -33,7 +33,7 @@ header:
 </head>
 <body>
 
-<h1>Philip 🪻</h1>
+<h1>Philip 🌊</h1>
 <hr class="separator">
 
 <p class="content-paragraph"><small>In the course Staging co-creation and creativity I have partaken and immersed myself in the group activities surrounding the partaking, the development and execution of five co-creation workshops with the focus being universal design in a music festival context. Apart from the five workshops, we have throughout the course period also been introduced to best practices in workshop design, partaken in guest lectures from professional co-creation workshop facilitators, who uses the methods in the industry and professional setting. This has for me been particularly interesting and useful as it has helped me along with the group to prepare and develop the upcoming workshops and to give concrete and accurate feedback to the other workshop facilitating groups. As a result, it is my experience that our workshops have overtime not only become better and more wholesome in content but also developed our way of preparing and facilitating the workshops, which has been on both a steep and upwards trajectory, where I have become more mature and confident in the job as a workshop facilitator. Generally speaking, it has been a fun learning experience, but as it always is, bumps along the way are destined to happen when immersing yourself into a new topic. To my future self as a workshop developer and facilitator, I have made a few recommendations: </small></p>

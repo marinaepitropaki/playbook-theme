@@ -43,7 +43,7 @@ feature_row_marina:
 feature_row_philip:
   - image_path: /assets/images/photos/philip.png
     alt: "placeholder image 2"
-    title: "Philip 🪻"
+    title: "Philip 🌊"
     excerpt: 'In the course Staging co-creation and creativity I have partaken and immersed myself in the group activities surrounding the partaking, the development and execution of five co-creation workshops with the focus being universal design in a music festival context...'
     url: "/member_reflections/philip_reflections"
     btn_label: "Read More"
