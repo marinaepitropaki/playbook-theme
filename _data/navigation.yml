@@ -90,31 +90,8 @@ methods:
         url: /Methods/#Song
       - title: "Tall tales"
         url: /Methods/#TallTales
-  - title: Main Workshop 1
-    url: /Methods/#Workshop1
-    children:
-      - title: "Desk Research"
-        url: /Methods/#DeskResearch
-      - title: "Personas"
-        url: /Methods/#Personas
-      - title: "Negative Brainstorming"
-        url: /Methods/#NegativeBrainstorming
-      - title: "Brainstorm Box"
-        url: /Methods/#BrainstormBox
-      - title: "Design Games"
-        url: /Methods/#GameDesign
-      - title: "Game Piece for Design games"
-        url: /Methods/#GamePiece
-      - title: "Actor Network"
-        url: /Methods/#ActorNetwork
-      - title: "Actor Worlds"
-        url: /Methods/#ActorWorlds
-      - title: "Messy Map"
-        url: /Methods/#MessyMap
-      - title: "Ordered map"
-        url: /Methods/#OrderedMap
-      - title: "Relational map"
-        url: /Methods/#RelationalMap
+      - title: "Present Your Partner"
+        url: /Methods/#PresentYourPartner
   - title: Energizers
     url: /Methods/#Energizers
     children:
@@ -126,35 +103,68 @@ methods:
         url: /Methods/#CircleOfStretch
       - title: "Body Tapping"
         url: /Methods/#BodyTapping
-  - title: Main Workshop 2
-    url: /Methods/#Workshop2
+  - title: Discover
+    url: /Methods/#Workshop1
     children:
-      - title: "User Journey"
-        url: /Methods/#UserJourney
-      - title: "Evaluation Matrix"
-        url: /Methods/#EvaluationMatrix
+      - title: "Desk Research"
+        url: /Methods/#DeskResearch
+      - title: "Create Empathy"
+        url: /Methods/#CreateEmpathy
+      - title: "Design Games"
+        url: /Methods/#GameDesign
+      - title: "Game Piece for Design games"
+        url: /Methods/#GamePiece
+      - title: "Actor Worlds"
+        url: /Methods/#ActorWorlds
+      - title: "Messy Map"
+        url: /Methods/#MessyMap
+      - title: "Ordered map"
+        url: /Methods/#OrderedMap
+      - title: "Relational map"
+        url: /Methods/#RelationalMap
+      - title: "Ability Prompt Cards"
+        url: /Methods/#AbilityPromptCards
       - title: "Development Arena"
         url: /Methods/#DevelopmentArea
-      - title: "Idea with/Idea in"
-        url: /Methods/#IdeaWithIn
+  - title: Discover
+    url: /Methods/#Workshop1
+    children:
+      - title: "Personas"
+        url: /Methods/#Personas
+      - title: "User Journey"
+        url: /Methods/#UserJourney
+      - title: "Actor Network"
+        url: /Methods/#ActorNetwork
+      - title: "Bulls Eyes"
+        url: /Methods/#BullsEyes
+  - title: Develop
+    url: /Methods/#Develop
+    children:
+      - title: "Negative Brainstorming"
+        url: /Methods/#NegativeBrainstorming
+      - title: "Brainstorm Box"
+        url: /Methods/#BrainstormBox
+      - title: " Silent Brainstorm"
+        url: /Methods/#SilentBrainstorm
+      - title: "Evaluation Matrix"
+        url: /Methods/#EvaluationMatrix
       - title: "Idea Parking Lot"
         url: /Methods/#IdeaParkingLot
-  - title: Late Workshop
-    url: /Methods/#LateWorkshop
+      - title: "Present yout Neighbours"
+        url: /Methods/#Neighbors
+  - title: Deliver
+    url: /Methods/#Deliver
     children:
+      - title: "Idea with/Idea in"
+        url: /Methods/#IdeaWithIn
       - title: "Prototyping"
         url: /Methods/#Prototyping
       - title: "Poster Template"
         url: /Methods/#PosterTemplate
-      - title: "Present yout Neighbours"
-        url: /Methods/#Neighbors
       - title: "Build - Measure - Learn"
         url: /Methods/#BuildMeasureLearn
       - title: "The difference that matters"
         url: /Methods/#Difference
-  - title: Discussion
-    url: /Methods/#Discussion
-    children:
       - title: "Pros N Cons"
         url: /Methods/#ProsCons
       - title: "Strengths N Weaknesses"
