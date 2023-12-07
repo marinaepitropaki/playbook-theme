@@ -156,6 +156,43 @@ methods:
       - title: "Strengths N Weaknesses"
         url: /Methods/#StrengthsNWeaknesses
 
+templates:
+  - title: Templates
+    url: /Templates/#templates
+    children:
+      - title: "Actor Worlds"
+        url: /Templates/#ActorWorlds
+      - title: "Agenda"
+        url: /Templates/#Agenda
+      - title: "Concept Evaluation Matrix"
+        url: /Templates/#ConceptEvaluationMatrix
+      - title: "Development Arena"
+        url: /Templates/#DevelopmentArena
+      - title: "Idea Evaluation Matrix"
+        url: /Templates/#IdeaEvaluationMatrix
+      - title: "Idea With and Idea in"
+        url: /Templates/#IdeaWithIn
+      - title: "Messy Map"
+        url: /Templates/#MessyMap
+      - title: "Name Tag"
+        url: /Templates/#Nametag
+      - title: "Ordered Map"
+        url: /Templates/#OrderedMap
+      - title: "Parking Lot"
+        url: /Templates/#ParkingLot
+      - title: "Poster"
+        url: /Templates/#Poster
+      - title: "Pros and Cons"
+        url: /Templates/#ProsNCons
+      - title: "Persona"
+        url: /Templates/#Persona
+      - title: "Relational Map"
+        url: /Templates/#RelationalMap
+      - title: "Strengths and Weaknesses"
+        url: /Templates/#SnW
+      - title: "User Journey"
+        url: /Templates/#UserJourney
+
 
 feature_row:
   - image_path: /assets/images/space.jpeg
