@@ -120,6 +120,10 @@ sidebar:
       border: 0.5px solid gray;
       margin: 20px 0;
     }
+
+  p {
+      margin-bottom: 10px; /* Adjust the paragraph margin as needed */
+    }
 </style>
 
 ![Methods Double Diamond]({{ site.baseurl }}/assets/images/methodsdd.png)
@@ -240,7 +244,14 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/ActorWorlds.png" alt="ActorWorlds">
       <small>Link to Actor Worlds template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ActorWorlds.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ActorWorlds.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Network </small></li>
+        <li><small> Concept Development </small></li>
+      </ul>
 
   </details>
 
@@ -250,7 +261,16 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/MessyMap.png" alt="MessyMap">
       <small>Link to Messy Map template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-MessyMap.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-MessyMap.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Ordered map </small></li>
+        <li><small> Relational map </small></li>
+        <li><small> Actor worlds </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Network </small></li>
+        <li><small> Concept Development </small></li>
+      </ul>
 
   </details>
 
@@ -260,7 +280,17 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/OrderedMap.png" alt="OrderedMap">
       <small>Link to Ordered Map template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-OrderedMap.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-OrderedMap.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy map </small></li>
+        <li><small> Relational map </small></li>
+        <li><small> Actor worlds </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Network </small></li>
+        <li><small> Concept Development </small></li>
+      </ul>
+
 
   </details>
 
@@ -270,7 +300,17 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/RelationalMap.png" alt="RelationalMap">
       <small>Link to Relational Map template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-RelationalMap.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-RelationalMap.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Ordered map </small></li>
+        <li><small> Messy map </small></li>
+        <li><small> Actor worlds </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Network </small></li>
+        <li><small> Concept Development </small></li>
+      </ul>
+
 
   </details>
 
@@ -288,7 +328,14 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/DevelopmentArea.png" alt="DevelopmentArea">
       <small>Link to Development Arena template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-DevelopmentArena.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-DevelopmentArena.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Actor Worlds </small></li>
+        <li><small> Actor Network </small></li>
+        <li><small> Concept Development </small></li>
+      </ul>
   </details>
 
 
@@ -397,7 +444,17 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/IdeaWithIn.png" alt="IdeaWithIn">
       <small>Link to Idea With /Idea In template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-IdeaWithIn.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-IdeaWithIn.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Worlds </small></li>
+        <li><small> The difference that matters </small></li>
+        <li><small> Strengths and weaknesses </small></li>
+        <li><small> Pros and Cons </small></li>
+      </ul>
+
   </details>
 
   <span id="Prototyping"></span><span style="display: none;">[Reference to Prototyping](#Prototyping)</span>
@@ -427,7 +484,16 @@ sidebar:
 <h5>The Difference that Matters</h5>
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
-      <img src="{{ site.baseurl }}/assets/images/Difference.png" alt="Difference">
+      <img src="{{ site.baseurl }}/assets/images/Difference.png" alt="Difference"><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Worlds </small></li>
+        <li><small> Idea With/ Idea In </small></li>
+        <li><small> Strengths and weaknesses </small></li>
+        <li><small> Pros and Cons </small></li>
+      </ul>
   </details>
 
 
@@ -437,7 +503,17 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/ProsCons.png" alt="ProsCons">
       <small>Link to Pros and Cons template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ProsNCons.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ProsNCons.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Worlds </small></li>
+        <li><small> Idea With/ Idea In </small></li>
+        <li><small> Strengths and weaknesses </small></li>
+        <li><small> The Difference that matters </small></li>
+      </ul>
+
   </details>
 
   <span id="StrengthsNWeaknesses"></span><span style="display: none;">[Reference to StrengthsNWeaknesses](#StrengthsNWeaknesses)</span>
@@ -446,7 +522,16 @@ sidebar:
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/StrengthsNWeaknesses.png" alt="StrengthsNWeaknesses">
       <small>Link to Strengths and Weaknesses template: </small><br>
-      <small><a href="{{ site.baseurl }}/assets/pdf/Template-SnW.pdf">Link to template</a></small>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-SnW.pdf">Link to template</a></small><br>
+      <small> This method goes well with: </small><br>
+      <ul>
+        <li><small> Messy/Relational/Ordered map </small></li>
+        <li><small> Development Arena </small></li>
+        <li><small> Actor Worlds </small></li>
+        <li><small> Idea With/ Idea In </small></li>
+        <li><small> The difference that matters </small></li>
+        <li><small> Pros and Cons </small></li>
+      </ul>
   </details>
 
 </div>
