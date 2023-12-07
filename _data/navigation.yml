@@ -164,40 +164,40 @@ methods:
 
 templates:
   - title: Templates
-    url: /Templates/#templates
+    url: /templates/#templates
     children:
       - title: "Actor Worlds"
-        url: /Templates/#ActorWorlds
+        url: /templates/#ActorWorlds
       - title: "Agenda"
-        url: /Templates/#Agenda
+        url: /templates/#Agenda
       - title: "Concept Evaluation Matrix"
-        url: /Templates/#ConceptEvaluationMatrix
+        url: /templates/#ConceptEvaluationMatrix
       - title: "Development Arena"
-        url: /Templates/#DevelopmentArena
+        url: /templates/#DevelopmentArena
       - title: "Idea Evaluation Matrix"
-        url: /Templates/#IdeaEvaluationMatrix
+        url: /templates/#IdeaEvaluationMatrix
       - title: "Idea With and Idea in"
-        url: /Templates/#IdeaWithIn
+        url: /templates/#IdeaWithIn
       - title: "Messy Map"
-        url: /Templates/#MessyMap
+        url: /templates/#MessyMap
       - title: "Name Tag"
-        url: /Templates/#Nametag
+        url: /templates/#Nametag
       - title: "Ordered Map"
-        url: /Templates/#OrderedMap
+        url: /templates/#OrderedMap
       - title: "Parking Lot"
-        url: /Templates/#ParkingLot
+        url: /templates/#ParkingLot
       - title: "Poster"
-        url: /Templates/#Poster
+        url: /templates/#Poster
       - title: "Pros and Cons"
-        url: /Templates/#ProsNCons
+        url: /templates/#ProsNCons
       - title: "Persona"
-        url: /Templates/#Persona
+        url: /templates/#Persona
       - title: "Relational Map"
-        url: /Templates/#RelationalMap
+        url: /templates/#RelationalMap
       - title: "Strengths and Weaknesses"
-        url: /Templates/#SnW
+        url: /templates/#SnW
       - title: "User Journey"
-        url: /Templates/#UserJourney
+        url: /templates/#UserJourney
 
 
 feature_row:
