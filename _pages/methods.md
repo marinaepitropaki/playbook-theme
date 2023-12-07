@@ -239,6 +239,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/ActorWorlds.png" alt="ActorWorlds">
+      <small>Link to Actor Worlds template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ActorWorlds.pdf">Link to template</a></small>
 
   </details>
 
@@ -247,6 +249,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/MessyMap.png" alt="MessyMap">
+      <small>Link to Messy Map template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-MessyMap.pdf">Link to template</a></small>
 
   </details>
 
@@ -255,6 +259,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/OrderedMap.png" alt="OrderedMap">
+      <small>Link to Ordered Map template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-OrderedMap.pdf">Link to template</a></small>
 
   </details>
 
@@ -263,6 +269,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/RelationalMap.png" alt="RelationalMap">
+      <small>Link to Relational Map template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-RelationalMap.pdf">Link to template</a></small>
 
   </details>
 
@@ -279,6 +287,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/DevelopmentArea.png" alt="DevelopmentArea">
+      <small>Link to Development Arena template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-DevelopmentArena.pdf">Link to template</a></small>
   </details>
 
 
@@ -300,9 +310,10 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/UserJourney.png" alt="UserJourney">
-      <small>Link to template: </small>
-      <small>Template from “The Universal Design Guide”: </small>
-      <small><a href="https://universaldesignguide.com/wp-content/uploads/Journey-map-v2.pdf">Link to template</a></small>
+      <small>Link to Journey Map template from “The Universal Design Guide”: </small><br>
+      <small><a href="https://universaldesignguide.com/wp-content/uploads/Journey-map-v2.pdf">Link to template</a></small><br>
+      <small>Link to User Journey template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-UserJourney.pdf">Link to template</a></small>
   </details>
 
   <span id="ActorNetwork"></span><span style="display: none;">[Reference to ActorNetwork](#ActorNetwork)</span>
@@ -353,6 +364,11 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/EvaluationMatrix.png" alt="EvaluationMatrix">
+      <small>Link to Concept Evaluation Matrix template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ConceptEvMat.pdf">Link to template</a></small><br>
+      <small>Link to Idea Evaluation Matrix template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-IdeaEvMat.pdf">Link to template</a></small>
+
   </details>
 
   <span id="IdeaParkingLot"></span><span style="display: none;">[Reference to IdeaParkingLot](#IdeaParkingLot)</span>
@@ -360,6 +376,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/IdeaParkingLot.png" alt="IdeaParkingLot">
+      <small>Link to Idea Parking Lot template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ParkingLot.pdf">Link to template</a></small>
   </details>
 
   <span id="Neighbors"></span><span style="display: none;">[Reference to Neighbors](#Neighbors)</span>
@@ -378,6 +396,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/IdeaWithIn.png" alt="IdeaWithIn">
+      <small>Link to Idea With /Idea In template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-IdeaWithIn.pdf">Link to template</a></small>
   </details>
 
   <span id="Prototyping"></span><span style="display: none;">[Reference to Prototyping](#Prototyping)</span>
@@ -392,6 +412,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/PosterTemplate.png" alt="PosterTemplate">
+      <small>Link to Poster Presentation template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-PosterPresentation.pdf">Link to template</a></small>
   </details>
 
   <span id="BuildMeasureLearn"></span><span style="display: none;">[Reference to BuildMeasureLearn](#BuildMeasureLearn)</span>
@@ -414,6 +436,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/ProsCons.png" alt="ProsCons">
+      <small>Link to Pros and Cons template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-ProsNCons.pdf">Link to template</a></small>
   </details>
 
   <span id="StrengthsNWeaknesses"></span><span style="display: none;">[Reference to StrengthsNWeaknesses](#StrengthsNWeaknesses)</span>
@@ -421,6 +445,8 @@ sidebar:
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
       <img src="{{ site.baseurl }}/assets/images/StrengthsNWeaknesses.png" alt="StrengthsNWeaknesses">
+      <small>Link to Strengths and Weaknesses template: </small><br>
+      <small><a href="{{ site.baseurl }}/assets/pdf/Template-SnW.pdf">Link to template</a></small>
   </details>
 
 </div>
