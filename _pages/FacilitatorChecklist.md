@@ -64,14 +64,17 @@ sidebar:
 </head>
 <body>
 
+  <span id="before"></span><span style="display: none;">[Reference to before](#before)</span>
   <h4>BEFORE THE WORKSHOP</h4>
 
   <ul class="checkbox-container" id="beforeWorkshopList"></ul>
 
+  <span id="during"></span><span style="display: none;">[Reference to during](#during)</span>
   <h4>DURING THE WORKSHOP</h4>
 
   <ul class="checkbox-container" id="duringWorkshopList"></ul>
 
+  <span id="after"></span><span style="display: none;">[Reference to after](#after)</span>
   <h4>AFTER THE WORKSHOP</h4>
 
   <ul class="checkbox-container" id="afterWorkshopList"></ul>

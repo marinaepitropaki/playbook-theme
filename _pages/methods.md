@@ -394,7 +394,7 @@ sidebar:
 <h5>Brainstorm Box</h5>
   <details class="default square">
       <summary>Click to <span class="open">open</span><span class="close">close</span></summary>
-      <img src="{{ site.baseurl }}/assets/images/BrainstormBox.png" alt="BrainstormBox">
+      <img src="{{ site.baseurl }}/assets/images/Brainstormbox.png" alt="BrainstormBox">
 
   </details>
 

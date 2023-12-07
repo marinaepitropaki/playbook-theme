@@ -38,6 +38,7 @@ frameworks:
 
 checklist:
   - title: BEFORE THE WORKSHOP
+    url: /facilitatorchecklist/#before
     children:
       - title: "Templates"
         #url: /FacilitatorChecklist/#templates
@@ -57,6 +58,7 @@ checklist:
         #url: /FacilitatorChecklist/#snacks
 
   - title: DURING THE WORKSHOP
+    url: /facilitatorchecklist/#during
     children:
       - title: "Intro & Outro"
         #url: /FacilitatorChecklist/#intro
@@ -73,12 +75,13 @@ checklist:
       - title: "Timeframes"
         #url: /FacilitatorChecklist/#timeframes
   - title: AFTER THE WORKSHOP
+    url: /facilitatorchecklist/#after
     children:
       - title: "Document"
       - title: "Emails"
 
   - title: References
-    url: /FacilitatorChecklist/#references
+    url: /facilitatorchecklist/#references
 
 methods:
   - title: Introdution N Icebreakers

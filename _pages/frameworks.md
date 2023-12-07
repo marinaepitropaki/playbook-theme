@@ -33,13 +33,12 @@ During our time performing workshops in “staging co-creation and creativity”
 ![Double Diamond Usage]({{ site.baseurl }}/assets/images/doublediamondlearnings.png)
 
 
-## Staging an iterative process
+<span id="stagingdiscussion"></span>
+<h2> Create comfort, Stage discussion and Develop together</h2>
+<span style="display: none;">[Reference to Staging Discussion](#stagingdiscussion)</span>
 
 ![Staging Discussion]({{ site.baseurl }}/assets/images/staging.png)
 
-<span id="stagingdiscussion"></span>
-Stage discussion, create comfort and develop together
-<span style="display: none;">[Reference to Staging Discussion](#stagingdiscussion)</span>
 
 ![Staging Discussion]({{ site.baseurl }}/assets/images/stagediscussion.png)
 
