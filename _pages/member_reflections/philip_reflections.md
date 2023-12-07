@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Reflections"
-permalink: /marina_reflections/
+title: "Reflections 🍂🍎"
+permalink: /member_reflections/philip_reflections/
 header:
   #overlay_color: "#000"
   overlay_filter: "0.5"
@@ -25,11 +25,16 @@ header:
     small {
       font-size: 80%; /* Adjust the small text size as needed */
     }
+    .separator {
+      border: 0.5px solid gray; /* Adjust the color and style of the separator as needed */
+      margin: 20px 0; /* Adjust the margin around the separator as needed */
+    }
   </style>
 </head>
 <body>
 
-<h2>Marina 🌻</h2>
+<h1>Philip 🌻</h1>
+<hr class="separator">
 
 <p class="content-paragraph"><small>The workshop and facilitating experience transformed for me after this course. In our team, we faced challenges, but we also 
 had moments of success. During the course, we got split into groups, and the following week, two new members joined us. I got the 
@@ -63,3 +68,4 @@ responsible. We discovered that by using both the course material and workshop t
 and the workshop process. That's why in our workshops and reflections, we aimed to include as much lecture material as possible. Ultimately, 
 we envision this playbook as a compilation of course material infused with our personal experiences.</small></p>
 
+ 

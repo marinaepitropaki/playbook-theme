@@ -13,7 +13,7 @@ feature_row_eleni:
     title: "Eleni"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "#test-link"
+    url: "/member_reflections/eleni_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_judit:
@@ -22,7 +22,7 @@ feature_row_judit:
     title: "Judit"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "#test-link"
+    url: "/member_reflections/judit_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_josephine:
@@ -31,7 +31,7 @@ feature_row_josephine:
     title: "Josephine"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "#test-link"
+    url: "/member_reflections/josephine_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_marina:
@@ -40,7 +40,7 @@ feature_row_marina:
     title: "Marina"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "/marina_reflections"
+    url: "/member_reflections/marina_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_philip:
@@ -49,7 +49,7 @@ feature_row_philip:
     title: "Philip"
     excerpt: 'The workshop and facilitating experience became different for me after this course. In our team, we faced challenges, but we also 
               had moments of success. During the course, we got split into groups, and the following week, two new members joined us.'
-    url: "#test-link"
+    url: "/member_reflections/philip_reflections"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
