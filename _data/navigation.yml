@@ -180,6 +180,8 @@ templates:
         url: /templates/#ActorWorlds
       - title: "Agenda"
         url: /templates/#Agenda
+      - title: "Bulls Eye"
+        url: /templates/#BullsEye
       - title: "Concept Evaluation Matrix"
         url: /templates/#ConceptEvaluationMatrix
       - title: "Development Arena"
@@ -200,6 +202,8 @@ templates:
         url: /templates/#Poster
       - title: "Pros and Cons"
         url: /templates/#ProsNCons
+      - title: "Prototyping"
+        url: /templates/#Prototyping
       - title: "Persona"
         url: /templates/#Persona
       - title: "Relational Map"

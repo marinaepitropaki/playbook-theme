@@ -24,7 +24,12 @@ sidebar:
 [![image-left]({{ site.baseurl }}/assets/pdf/images/Template-Agenda.png){: .align-left style="width:100px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-Agenda.pdf)
 <span id="Agenda"></span><span style="display: none;">[Reference to Agenda](#Agenda)</span>
 ### Workshop Agenda  
-[Download PDF]({{ site.baseurl }}/assets/pdf/Template-Agenda.pdf)<br><br><br>       
+[Download PDF]({{ site.baseurl }}/assets/pdf/Template-Agenda.pdf)<br><br><br>     
+
+[![image-left]({{ site.baseurl }}/assets/pdf/images/Template-BullsEye.png){: .align-left style="width:150px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-BullsEye.pdf)
+<span id="BullsEye"></span><span style="display: none;">[Reference to BullsEye](#BullsEye)</span>
+### Bulls Eye Categorization  
+[Download PDF]({{ site.baseurl }}/assets/pdf/Template-BullsEys.pdf)<br><br><br>   
 
 [![image-left]({{ site.baseurl }}/assets/pdf/images/Template-ConceptEvMat.png){: .align-left style="width:100px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-ConceptEvMat.pdf)
 <span id="ConceptEvaluationMatrix"></span><span style="display: none;">[Reference to ConceptEvaluationMatrix](#ConceptEvaluationMatrix)</span>
@@ -75,6 +80,11 @@ sidebar:
 <span id="ProsNCons"></span><span style="display: none;">[Reference to ProsNCons](#ProsNCons)</span>
 ### Concept Development - Pros and Cons
 [Download PDF]({{ site.baseurl }}/assets/pdf/Template-ProsNCons.pdf)<br><br><br> 
+
+[![image-left]({{ site.baseurl }}/assets/pdf/images/Template-Prototyping.png){: .align-left style="width:150px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-Prototyping.pdf)
+<span id="Prototyping"></span><span style="display: none;">[Reference to Prototyping](#Prototyping)</span>
+### Prototyping
+[Download PDF]({{ site.baseurl }}/assets/pdf/Template-Prototyping.pdf)<br><br><br> 
 
 ![image-left]({{ site.baseurl }}/assets/pdf/images/Template-Persona.png){: .align-left style="width:150px; height:auto;"}
 <span id="Persona"></span><span style="display: none;">[Reference to Persona](#Persona)</span>
