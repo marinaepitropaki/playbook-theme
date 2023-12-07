@@ -79,7 +79,3 @@ sidebar:
 [![image-left]({{ site.baseurl }}/assets/pdf/images/Template-UserJourney.png){: .align-left style="width:150px; height:auto;"}]({{ site.baseurl }}/assets/pdf/Template-UserJourney.pdf)
 ### User Journey
 [Download PDF]({{ site.baseurl }}/assets/pdf/Template-UserJourney.pdf)<br><br><br> 
-
-[Nametag PDF](https://universaldesignguide.com/wp-content/uploads/Template_nametag.pdf)
-[Personas PDF](https://universaldesignguide.com/wp-content/uploads/Persona_v2.pdf)
-[User Journey](https://universaldesignguide.com/wp-content/uploads/Persona_v2.pdf)
