@@ -82,95 +82,95 @@ checklist:
 
 methods:
   - title: Introdution N Icebreakers
-    url: /Methods/#Introduction
+    url: /methods/#Introduction
     children:
       - title: "Name tag Exercise"
-        url: /Methods/#Nametag
+        url: /methods/#Nametag
       - title: "Who owns the song?"
-        url: /Methods/#Song
+        url: /methods/#Song
       - title: "Tall tales"
-        url: /Methods/#TallTales
+        url: /methods/#TallTales
       - title: "Present Your Partner"
-        url: /Methods/#PresentYourPartner
+        url: /methods/#PresentYourPartner
   - title: Energizers
-    url: /Methods/#Energizers
+    url: /methods/#Energizers
     children:
       - title: "Basketball"
-        url: /Methods/#Basketball
+        url: /methods/#Basketball
       - title: "Human Knot"
-        url: /Methods/#HumanKnot
+        url: /methods/#HumanKnot
       - title: "Circle of Stretch"
-        url: /Methods/#CircleOfStretch
+        url: /methods/#CircleOfStretch
       - title: "Body Tapping"
-        url: /Methods/#BodyTapping
+        url: /methods/#BodyTapping
   - title: Discover
-    url: /Methods/#Workshop1
+    url: /methods/#Workshop1
     children:
       - title: "Desk Research"
-        url: /Methods/#DeskResearch
+        url: /methods/#DeskResearch
       - title: "Create Empathy"
-        url: /Methods/#CreateEmpathy
+        url: /methods/#CreateEmpathy
       - title: "Design Games"
-        url: /Methods/#GameDesign
+        url: /methods/#GameDesign
       - title: "Game Piece for Design games"
-        url: /Methods/#GamePiece
+        url: /methods/#GamePiece
       - title: "Actor Worlds"
-        url: /Methods/#ActorWorlds
+        url: /methods/#ActorWorlds
       - title: "Messy Map"
-        url: /Methods/#MessyMap
+        url: /methods/#MessyMap
       - title: "Ordered map"
-        url: /Methods/#OrderedMap
+        url: /methods/#OrderedMap
       - title: "Relational map"
-        url: /Methods/#RelationalMap
+        url: /methods/#RelationalMap
       - title: "Ability Prompt Cards"
-        url: /Methods/#AbilityPromptCards
+        url: /methods/#AbilityPromptCards
       - title: "Development Arena"
-        url: /Methods/#DevelopmentArea
+        url: /methods/#DevelopmentArea
   - title: Discover
-    url: /Methods/#Workshop1
+    url: /methods/#Workshop1
     children:
       - title: "Personas"
-        url: /Methods/#Personas
+        url: /methods/#Personas
       - title: "User Journey"
-        url: /Methods/#UserJourney
+        url: /methods/#UserJourney
       - title: "Actor Network"
-        url: /Methods/#ActorNetwork
+        url: /methods/#ActorNetwork
       - title: "Bulls Eyes"
-        url: /Methods/#BullsEyes
+        url: /methods/#BullsEyes
   - title: Develop
-    url: /Methods/#Develop
+    url: /methods/#Develop
     children:
       - title: "Negative Brainstorming"
-        url: /Methods/#NegativeBrainstorming
+        url: /methods/#NegativeBrainstorming
       - title: "Brainstorm Box"
-        url: /Methods/#BrainstormBox
+        url: /methods/#BrainstormBox
       - title: " Silent Brainstorm"
-        url: /Methods/#SilentBrainstorm
+        url: /methods/#SilentBrainstorm
       - title: "Evaluation Matrix"
-        url: /Methods/#EvaluationMatrix
+        url: /methods/#EvaluationMatrix
       - title: "Idea Parking Lot"
-        url: /Methods/#IdeaParkingLot
+        url: /methods/#IdeaParkingLot
       - title: "Present yout Neighbours"
-        url: /Methods/#Neighbors
+        url: /methods/#Neighbors
   - title: Deliver
-    url: /Methods/#Deliver
+    url: /methods/#Deliver
     children:
       - title: "Idea with/Idea in"
-        url: /Methods/#IdeaWithIn
+        url: /methods/#IdeaWithIn
       - title: "Prototyping"
-        url: /Methods/#Prototyping
+        url: /methods/#Prototyping
       - title: "Poster Template"
-        url: /Methods/#PosterTemplate
+        url: /methods/#PosterTemplate
       - title: "Build - Measure - Learn"
-        url: /Methods/#BuildMeasureLearn
+        url: /methods/#BuildMeasureLearn
       - title: "The difference that matters"
-        url: /Methods/#Difference
+        url: /methods/#Difference
       - title: "Pros N Cons"
-        url: /Methods/#ProsCons
+        url: /methods/#ProsCons
       - title: "Strengths N Weaknesses"
-        url: /Methods/#StrengthsNWeaknesses
+        url: /methods/#StrengthsNWeaknesses
   - title: References
-    url: /Methods/#references
+    url: /methods/#references
 
 templates:
   - title: Templates
